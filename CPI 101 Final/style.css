@@ -19,6 +19,7 @@ body {
   text-decoration: none;
   text-align: center;
   font-size: 25px;
+  font-family: bookman;
   background-color: #EE6F57;
   color: #145374;
   display: block;
@@ -32,6 +33,7 @@ body {
 #main {
   margin-left: 250px;
   font-size: 28px;
+  font-family: bookman;
   padding: 0;
   background-color: #F6F5F5;
   color: #145374;
