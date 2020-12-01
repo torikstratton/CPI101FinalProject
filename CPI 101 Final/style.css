@@ -11,7 +11,7 @@ body {
   left: 0;
   background: #EE6F57;
   overflow-x: hidden;
-  padding: 8px 0;
+  padding: 0;
 }
 
 .sidenav a:link, a:visited {
