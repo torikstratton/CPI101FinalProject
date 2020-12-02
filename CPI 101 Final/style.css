@@ -39,6 +39,7 @@ body {
 
 #main a:link, a:visited {
   text-decoration: none;
+  color: #145374
 }
 
 #main a:hover, a:active {
