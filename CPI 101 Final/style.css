@@ -4,6 +4,11 @@ body {
   text-align: center;
 }
 
+body a:active {
+  text-decoration: none;
+  background-color: #F6F5F5;
+}
+
 .sidenav {
   height: 100%;
   width: 250px;
