@@ -4,8 +4,15 @@ body {
   text-align: center;
 }
 
-body a:active {
+body a:link, a:visited {
   text-decoration: none;
+  color: #145374
+  background-color: #F6F5F5;
+}
+
+body a:hover, a:active {
+  text-decoration: none;
+  color: #00334E;
   background-color: #F6F5F5;
 }
 
